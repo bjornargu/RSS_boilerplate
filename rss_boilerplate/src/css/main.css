@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+html, body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNhc3MvbWFpbi5zY3NzIiwibWFpbi5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQVEseUZBQUE7QUFFUjtFQUNJLGtDQUFBO0VBQ0EsZ0JBQUE7QUNBSjs7QURHQTtFQUNJLGdCQUFBO0FDQUoiLCJmaWxlIjoibWFpbi5jc3MifQ== */

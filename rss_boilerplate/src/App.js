@@ -1,4 +1,4 @@
-import "./App.css";
+import "./css/main.css";
 import { hentAlleVarer } from "./sanity/service";
 import { useState, useEffect } from "react";
 
